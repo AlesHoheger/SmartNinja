@@ -1,0 +1,56 @@
+body {
+    background-color: coral;
+    align-items: center;
+}
+
+#logo {
+    margin: 20px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+table, th, td {
+    border: 1px solid #000080;
+    color: brown;
+}
+
+    h1 {
+color:#000080;
+}
+    h2 {
+color:#000080;
+}
+    h3 {
+color:#000080;
+}
+
+p{
+    color: purple;
+}
+
+#drugi-odstavek {
+    color: pink;
+}
+
+.rjav-tekst {
+    color: brown;
+    margin: 20px 30px;
+}
+
+.povdarjeno {
+    font-size: 130%;
+}
+
+.pomanjsano {
+    font-size: 70%;
+}
+
+.okvir {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.povecaj:hover {
+    font-size: 200%;
+}

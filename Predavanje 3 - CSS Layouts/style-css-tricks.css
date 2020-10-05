@@ -1,0 +1,79 @@
+.square1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.square2 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+    /* move the square to the right side: */
+    margin-left: auto;
+}
+
+.square3 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+    /* move the square to the right side: */
+    position: absolute;
+    right: o;
+}
+
+.square4 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+    /* move the square to the middle: */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.square5 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+    /* move the square to the bottom (fixed): */
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+
+.square6 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+    /* move the square anywhere on the screen (change left and top): */
+    position: relative;
+    left: 280px;
+    top: 50px;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+
+    /* place the square inline: */
+    margin: 5px;
+    display: inline-block;
+}
+
+.squareflex {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}

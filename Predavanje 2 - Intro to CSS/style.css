@@ -1,0 +1,21 @@
+p{
+    color:blue;
+}
+
+#drugiOdstavek {
+    color: yelow;
+}
+
+.brown {
+    color: brown;
+    margin: 30px 50px;
+}
+
+
+.big {
+    font-size: 130%;
+}
+
+.odstavek p {
+    color: red;
+}

@@ -1,0 +1,23 @@
+.square {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.square1 {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+  margin: 5px;
+}
+
+.container1 {
+  display: flex;
+  flex-flow: row wrap;
+}

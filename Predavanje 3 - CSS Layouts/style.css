@@ -1,0 +1,50 @@
+.navigation {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.main {
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+.move {
+    background-color: brown;
+    width: 600px;
+    height: 100px;
+    margin: 20px;
+    border: 5px solid black;
+    padding: 30px;
+}
+
+.relative1 {
+    background-color: pink;
+    position: relative;
+    width: 300px;
+    height: 50px;
+}
+
+.relative2 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+    background-color: purple;
+    width: 200px;
+    height: 50px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}

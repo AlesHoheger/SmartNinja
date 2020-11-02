@@ -1,1 +1,1 @@
-{'ime': 'Ales', 'priimek': 'Hoheger', 'starost': '40', 'kraj': 'Velenje', 'turnirji': 5, 'zmage': 3, 'nivo': 'profesionalec'}
+{'ime': 'Jaka', 'priimek': 'Lešnik', 'starost': '33', 'kraj': 'Velenje', 'turnirji': 6, 'zmage': 1, 'nivo': 'začetnik'}

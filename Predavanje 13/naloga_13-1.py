@@ -25,3 +25,4 @@ with open("poker_prijave.txt", "w") as turnir_file:
 
 print("Player successfully entered!")
 print("Player's data: {0}".format(nov_igralec.__dict__))
+

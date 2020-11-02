@@ -1,0 +1,1 @@
+{'ime': 'Ales', 'priimek': 'Hoheger', 'starost': '40', 'kraj': 'Velenje', 'turnirji': 5, 'zmage': 3, 'nivo': 'profesionalec'}

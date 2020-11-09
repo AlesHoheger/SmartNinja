@@ -8,12 +8,12 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/")
+@app.route("/about_me.html")
 def about_me():
     return render_template("about_me.html")
 
 
-@app.route("/")
+@app.route("/portfolio.html")
 def portfolio():
     return render_template("portfolio.html")
 
